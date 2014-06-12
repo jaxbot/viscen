@@ -11,8 +11,10 @@
 				<h1>Viscen</h1>
 			</div>
 			<div class='content'>
-				<img src='camera.php' id='campic'>
+				<img src='camera.php?cam=1' id='campic'>
+				<img src='/camera'>
 			</div>
 		</div>
 	</body>
 </html>
+
